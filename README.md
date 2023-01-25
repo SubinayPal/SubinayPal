@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SubinayPal
 - 👀 I’m interested in Html, CSS, JavaScript, NodeJs, Angular, Java, Python.
-- 🌱 I’m currently learning Advance Java, Angular.
+- 🌱 I’m currently learning Advance Java, JSP, HTML, CSS, JS.
 - 💞️ 
 - 📫 How to reach me ...
 
